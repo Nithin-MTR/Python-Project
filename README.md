@@ -1,4 +1,4 @@
-# Python-Project
+# Python-Projects
 Exploratory Data Analysis
 
 1.YouTube Dislikes Analysis:
