@@ -17,3 +17,5 @@ Investigated trends and insights in the Google Play Store data.
 Employed Jupyter Notebook for data preprocessing and analysis.
 
 Explore each project to dive into the world of data exploration, analysis, and insights! 📊🔍
+
+Author - Nithin
